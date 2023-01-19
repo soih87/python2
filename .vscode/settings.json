@@ -1,0 +1,8 @@
+{
+  "editor.tabCompletion": "on",
+  "debug.console.acceptSuggestionOnEnter": "on",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.insertSpaces": true,
+  "scm.diffDecorationsGutterWidth": 2,
+  "terminal.integrated.cursorWidth": 2
+}
